@@ -3,7 +3,7 @@
 " Version:       0.1
 
 if !has("nvim")
-  echom "vim-godebug: vim is not yet supported, try it with neovim"
+"  echom "vim-godebug: vim is not yet supported, try it with neovim"
   finish
 endif
 
